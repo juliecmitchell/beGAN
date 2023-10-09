@@ -19,7 +19,7 @@ To install required dependencies
 *`conda install seaborn scikit-learn ipywidgets`
 
 
-To run the code using command line python
+To run the code using the command line python
 
 *`cd beGAN`
 *`python beGAN_Pauling33k_run.py`
@@ -29,6 +29,8 @@ This code will generate 16-mer beta-hairpin peptide sequences with corresponding
 To run the code interactively using jupyter-lab
 
 *`conda install -c conda-forge jupyterlab`
+
+
 
 *`jupyter-lab`
 
