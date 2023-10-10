@@ -7,7 +7,7 @@ To create the beGAN environment and activate it using conda
 * `conda create --name beGAN`
 
 
-`conda activate beGAN`
+* `conda activate beGAN`
 
 To obtain the beGAN code repository in your local machine.
 
